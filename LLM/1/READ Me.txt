@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Etiket Örnekleri</title>
+</head>
+<body>
+
+    <p></p>
+    <p><i>İtalik Yazı</i></p>
+    <p><em>İtalik yazı önem belirtiyor</em></p>
+    <p><u>Altı Çizili Yazı</u></p>
+    <p><s>Üstü Çizili Yazı</s></p>
+    <p>Üst simge<sup> metni </sup>tanımlar</p>
+    <p>X <sub>2</sub> Alt ifadeleri simge gösterir.</p>
+    <p>X <sup>2</sup> Üst ifadeleri simge gösterir.</p>
+    <p><del>Üstü Çizili Yazı</del> <del>350</del> = 200</p>
+    <p><b>Kalın Yazı</b></p>
+    <p><big>Büyük Yazı</big> (HTML5'te desteklenmez, CSS ile yapılmalı)</p>
+    <p><small>Küçük Yazı</small></p>
+    <p><strong>Önemli Yazı</strong></p>
+    <p><code>Kod Örneği</code></p>
+    <p><ins>Eklenen Metin</ins></p>
+    <p><mark>İşaretli Metin</mark></p>
+    <p><q>Kısa Alıntı</q></p>
+    <p><abbr title="Hypertext Markup Language">HTML</abbr></p>
+    <p><address>Adres Bilgisi</address></p>
+    <p><cite>Eser Başlığı</cite></p>
+    <p><dfn>Tanımlanan Terim</dfn></p>
+    <p><samp>Örnek Çıktı</samp></p>
+    <p><var>Değişken</var></p>
+    <p><pre>Önceden Biçimlendirilmiş Metin</pre></p>
+    <p><time datetime="2024-03-15">15 Mart 2024</time></p>
+    <p><wbr>UzunBirKelime<wbr>BuradaBölünebilir</wbr></p>
+
+    <a href="https://www.example.com">Bağlantı Örneği</a><br>
+    <img src="resim.jpg" alt="Resim Açıklaması" width="200" height="100"><br>
+    <audio controls><source src="ses.mp3" type="audio/mpeg"></audio><br>
+    <video controls width="320" height="240"><source src="video.mp4" type="video/mp4"></video><br>
+
+    <form>
+        <label for="ad">Ad:</label><br>
+        <input type="text" id="ad" name="ad"><br>
+        <label for="email">E-posta:</label><br>
+        <input type="email" id="email" name="email"><br>
+        <button type="submit">Gönder</button>
+    </form>
+
+    <ul>
+        <li>Liste Öğesi 1</li>
+        <li>Liste Öğesi 2</li>
+    </ul>
+
+    <ol>
+        <li>Sıralı Liste Öğesi 1</li>
+        <li>Sıralı Liste Öğesi 2</li>
+    </ol>
+
+    <dl>
+        <dt>Terim</dt>
+        <dd>Tanım</dd>
+    </dl>
+
+    <table>
+        <caption>Tablo Başlığı</caption>
+        <thead>
+            <tr>
+                <th>Başlık 1</th>
+                <th>Başlık 2</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Veri 1</td>
+                <td>Veri 2</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td>Toplam:</td>
+                <td>100</td>
+            </tr>
+        </tfoot>
+    </table>
+
+    <section>
+        <h2>Bölüm Başlığı</h2>
+        <p>Bölüm içeriği.</p>
+    </section>
+
+    <article>
+        <h2>Makale Başlığı</h2>
+        <p>Makale içeriği.</p>
+    </article>
+
+    <aside>
+        <p>Kenar Çubuğu İçeriği</p>
+    </aside>
+
+    <details>
+        <summary>Ek Detaylar</summary>
+        <p>Detaylı bilgi.</p>
+    </details>
+
+    <dialog open>
+        <p>İletişim Kutusu İçeriği</p>
+        <button>Kapat</button>
+    </dialog>
+
+    <nav>
+        <a href="#">Bağlantı 1</a>
+        <a href="#">Bağlantı 2</a>
+    </nav>
+
+    <header>
+        <h1>Sayfa Başlığı</h1>
+    </header>
+
+    <footer>
+        <p>Alt Bilgi İçeriği</p>
+    </footer>
+
+    <figure>
+        <img src="resim.jpg" alt="Resim Açıklaması">
+        <figcaption>Resim Başlığı</figcaption>
+    </figure>
+
+    <main>
+        <p>Ana İçerik</p>
+    </main>
+
+    <mark>Vurgulanan Metin</mark>
+
+    <meter value="0.7"> %70 </meter>
+
+    <progress value="70" max="100"> %70 </progress>
+
+    <select>
+        <option value="1">Seçenek 1</option>
+        <option value="2">Seçenek 2</option>
+    </select>
+
+    <template>
+        <p>Şablon İçeriği</p>
+    </template>
+
+    <textarea rows="4" cols="50">Metin Alanı</textarea>
+
+    <time datetime="2024-03-15T12:00">12:00</time>
+
+    <title>Sayfa Başlığı</title>
+
+    <script>
+        // JavaScript kodu buraya gelecek
+    </script>
+
+    <style>
+        /* CSS stilleri buraya gelecek */
+    </style>
+
+</body>
+</html>
