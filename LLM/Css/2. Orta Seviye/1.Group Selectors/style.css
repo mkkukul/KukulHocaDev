@@ -1,0 +1,20 @@
+p {
+  color: red;
+  font-size: 20px;
+}
+div p {
+  color: rgba(242, 255, 0, 0.513);
+  font-size: 30px;
+}
+.container p {
+  color: blue;
+  font-size: 40px;
+}
+.container div p {
+  color: green;
+  font-size: 50px;
+}
+.container div p:first-child {
+  color: orange;
+  font-size: 60px;
+}
