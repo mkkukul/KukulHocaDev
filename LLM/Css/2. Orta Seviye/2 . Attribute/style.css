@@ -1,0 +1,15 @@
+h2[title="baslik1"] {
+  color: red;
+}
+p[title="paragraf1"] {
+  color: blue;
+}
+p[title="paragraf2"] {
+  color: green;
+}
+a[target="_blank"] {
+  color: purple;
+}
+input[type="text"] {
+  background-color: rgb(196, 130, 7);
+}
