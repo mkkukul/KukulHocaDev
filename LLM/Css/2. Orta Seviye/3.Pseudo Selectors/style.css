@@ -7,3 +7,7 @@ p::first-letter {
   font-size: 30px;
   font-weight: bold;
 }
+ul li {
+  color: green;
+  font-size: 20px;
+}
