@@ -1,3 +1,15 @@
 body {
   color: bisque;
 }
+ul {
+  color: blue;
+}
+ul li::first-line {
+  color: blue;
+}
+a {
+  color: red;
+}
+a::first-letter {
+  color: rgb(0, 38, 128);
+}
