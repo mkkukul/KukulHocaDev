@@ -1,11 +1,14 @@
 img {
   width: 300px;
   /* height: 300px; */
-  /* float: left; */
-  float: right;
+  float: left;
+  /* float: right; */
   margin-left: 20px;
   margin-right: 20px;
 }
 .bolum {
   border: 1px solid rgb(248, 0, 0);
+  overflow: auto;
+  padding: 10px;
+  background-color: wheat;
 }
