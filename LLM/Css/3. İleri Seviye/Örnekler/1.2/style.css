@@ -1,0 +1,12 @@
+.yazi-alani {
+  width: 600px;
+  border: 1px solid #ccc;
+  padding: 15px;
+}
+
+.resim {
+  float: left;
+  width: 100px;
+  height: auto;
+  margin-right: 10px;
+}
