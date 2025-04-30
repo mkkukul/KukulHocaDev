@@ -1,0 +1,15 @@
+.sola-kayan {
+  float: left;
+  width: 150px;
+  margin: 10px;
+}
+
+.saga-kayan {
+  float: right;
+  width: 150px;
+  margin: 10px;
+}
+
+.temizle {
+  clear: both;
+}
