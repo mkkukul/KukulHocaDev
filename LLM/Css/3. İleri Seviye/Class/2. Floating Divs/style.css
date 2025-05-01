@@ -1,24 +1,35 @@
+#container {
+  width: auto;
+  /* height: 200px; */
+  background-color: lightgray;
+  /* overflow: hidden; Clearfix for floated children */
+}
+div {
+  margin: 5px;
+  width: 150px;
+  height: 150px;
+}
 #birinci {
-  width: 200px;
-  height: 200px;
+  /* width: 200px; */
+  /* height: 200px; */
   background-color: red;
   float: left;
 }
 #ikinci {
-  width: 200px;
-  height: 200px;
+  /* width: 200px; */
+  /* height: 200px; */
   background-color: blue;
   float: left;
 }
 #ucuncu {
-  width: 200px;
-  height: 200px;
+  /* width: 200px; */
+  /* height: 200px; */
   background-color: green;
   float: left;
 }
 #dorduncu {
-  width: 200px;
-  height: 200px;
+  /* width: 200px; */
+  /* height: 200px; */
   background-color: yellow;
   float: left;
 }
