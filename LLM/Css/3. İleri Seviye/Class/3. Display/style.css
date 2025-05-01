@@ -1,0 +1,7 @@
+div {
+  /* width: 250px; */
+  width: auto;
+  height: 100px;
+  background: lightskyblue;
+  margin: 5px;
+}
