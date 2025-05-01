@@ -1,0 +1,24 @@
+#birinci {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  float: left;
+}
+#ikinci {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  float: left;
+}
+#ucuncu {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  float: left;
+}
+#dorduncu {
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+  float: left;
+}
