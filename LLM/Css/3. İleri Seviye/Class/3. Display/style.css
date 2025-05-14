@@ -16,3 +16,9 @@ a {
   text-align: center;
   line-height: 100px; */
 }
+span {
+  display: block;
+}
+#kutu1 {
+  display: none;
+}
