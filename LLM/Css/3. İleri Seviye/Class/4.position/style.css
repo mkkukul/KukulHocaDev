@@ -1,0 +1,12 @@
+.container1 {
+  border: 1px solid rgb(0, 0, 0);
+  background-color: blue;
+}
+.container2 {
+  border: 1px solid rgb(0, 0, 0);
+  background-color: rgb(255, 0, 13);
+}
+.container3 {
+  border: 1px solid rgb(0, 0, 0);
+  background-color: rgb(6, 172, 17);
+}
